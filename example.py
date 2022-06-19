@@ -1,0 +1,12 @@
+import wrapper
+import time
+# ff=wrapper.filterFiles()
+# ff.filterScanFolder()
+# aa=ff.showFilteredFiles()
+# print(aa)
+# ff=wrapper.OLEOfficeDocument()
+# ff.OLEScanFolder()
+# print(ff.showOLEFiles())
+# ff=wrapper.scriptFilter()
+# ff.detectScanFolder()
+# print(ff.showDetectedFiles())
